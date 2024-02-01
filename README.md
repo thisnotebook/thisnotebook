@@ -2,13 +2,13 @@
 
 # 💫 About Me:
 ## **A passionate Fullstack Developer**
-🔭 I’m currently working on a project in React.js and Node.js<br>👯 I’m looking to collaborate on projects preferably with full Stack Technologies<br>💬 Ask me about cricket and movies<br>
+🔭 I’m currently working on a project in Next.js, React.js and Node.js<br>👯 I’m looking to collaborate on projects preferably with full Stack Technologies<br>💬 Ask me about cricket and movies<br>
 
 
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thisislucky_amrev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lucky-verma-109921228/]) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/thisislucky_amrev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucky-verma-109921228/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisnotebook&label=Profile%20views&color=0e75b6&style=flat" alt="Lucky verma" /> </p>
 
