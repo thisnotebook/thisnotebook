@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisnotebook&label=Profile%20views&color=0e75b6&style=flat" alt="thisnotebook" /> </p>
+
 ## **A passionate Fullstack Developer**
 🔭 I’m currently working on a project in Next.js, React.js and Node.js<br>👯 I’m looking to collaborate on projects preferably with full Stack Technologies<br>💬 Ask me about cricket and movies<br>
 
